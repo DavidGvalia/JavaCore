@@ -1,4 +1,4 @@
-package org.example.Inheritance;
+package org.example.inheritance;
 
 public abstract class Vehicle {
     protected String brand;

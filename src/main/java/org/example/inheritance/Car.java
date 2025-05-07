@@ -1,4 +1,4 @@
-package org.example.Inheritance;
+package org.example.inheritance;
 
 public class Car extends Vehicle {
     private String assemblyСountry;

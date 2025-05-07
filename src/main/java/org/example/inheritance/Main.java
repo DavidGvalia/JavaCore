@@ -1,4 +1,4 @@
-package org.example.Inheritance;
+package org.example.inheritance;
 
 public class Main {
     public static void main(String[] args) {
