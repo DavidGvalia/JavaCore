@@ -14,6 +14,7 @@ public class Main{
             throw new RuntimeException(e);
         }
 
+        //Десериализация объекта
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("/Users/davidgvaliya/Desktop/1.txt"))){
             Person person1 = (Person) ois.readObject();
             Person person2 = (Person) ois.readObject();
